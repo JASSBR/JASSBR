@@ -1,4 +1,4 @@
-<img src="https://wallpaperbat.com/img/820081-powerful-technologies-in-1-mern-stack.jpg" alt="image_description" height="200" width="100%">
+<p  align="center"><img src="https://preview.redd.it/wmf4pf98d4l61.png?width=1080&crop=smart&auto=webp&s=073861595f20d5199b8472bc8d08d6ed56794b82" alt="image_description" height="200" width="400px"></p>
 
 <h1 align="center">Hi 👋, I'm S. Yassir</h1>
 <br>
@@ -10,11 +10,11 @@
 
 
 
-- 🌱 I’m currently learning **JAVA SPRING**
+- 🌱 I’m currently learning **Next.js on depth**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-jassbr.vercel.app/](https://my-portfolio-jassbr.vercel.app/)
 
-- 💬 Ask me about **React, Node.js and PHP/Symfony**
+- 💬 Ask me about **React, Node.js and .NET/.NET Core**
 
 - 📫 How to reach me **yassirsabbar1@gmail.com**
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://dev.to/jassbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jassbr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yassir-sabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassir-sabbar" height="30" width="40" /></a>
-<a href="https://instagram.com/_jassbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jassbr" height="30" width="40" /></a>
+<a href="https://instagram.com/jassbr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jassbr" height="30" width="40" /></a>
 <a href="https://discord.gg/JASSBR#7372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JASSBR#7372" height="30" width="40" /></a>
 </p>
 <br>
