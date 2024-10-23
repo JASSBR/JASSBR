@@ -1,4 +1,3 @@
-<p  align="center"><img src="https://preview.redd.it/wmf4pf98d4l61.png?width=1080&crop=smart&auto=webp&s=073861595f20d5199b8472bc8d08d6ed56794b82" alt="image_description" height="200" width="400px"></p>
 
 <h1 align="center">Hi 👋, I'm S. Yassir</h1>
 <br>
