@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yassirsabbar1@gmail.com**
 
-- 📄 Know about my experiences [https://www.jassbr.tech](https://www.jassbr.tech/))
+- 📄 Know about my experiences [https://www.jassbr.tech](https://www.jassbr.tech/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
