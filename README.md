@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js on depth**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-jassbr.vercel.app/](https://my-portfolio-jassbr.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.jassbr.tech](https://www.jassbr.tech/)
 
 - 💬 Ask me about **React, Node.js and .NET/.NET Core**
 
