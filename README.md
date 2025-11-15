@@ -3,7 +3,8 @@
 <br>
 <h3 align="center">Fullstack developer</h3>
 <br>
-  <img align='right' src='https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47cpx80n47jgka0iufxs0ljesnnqqi07bcelxwr6ou&rid=giphy.gif&ct=g' width='300' alt='coding' />
+  <img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt='coding' width="500">
+
 
 
 
