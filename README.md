@@ -10,15 +10,15 @@
 
 
 
-- 🌱 I’m currently learning **Next.js on depth**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://www.jassbr.tech](https://www.jassbr.tech/)
 
-- 💬 Ask me about **React, Node.js and .NET/.NET Core**
+- 💬 Ask me about **Next.js, Node.js and .NET Core**
 
 - 📫 How to reach me **yassirsabbar1@gmail.com**
 
-- 📄 Know about my experiences [https://www.jassbr.tech](https://www.jassbr.tech/)
+- 📄 Know about my experiences [https://www.jassbr.me](https://www.jassbr.me/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
