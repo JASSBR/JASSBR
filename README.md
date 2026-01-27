@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://www.jassbr.tech](https://www.jassbr.tech/)
+- 👨‍💻 All of my projects are available at [https://www.jassbr.me](https://www.jassbr.me/)
 
 - 💬 Ask me about **Next.js, Node.js and .NET Core**
 
