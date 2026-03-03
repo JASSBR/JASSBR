@@ -11,7 +11,7 @@
 
 **`fullstack engineer`** · **`Lyon, FR`** · **`building things that matter`**
 
-[![Portfolio](https://img.shields.io/badge/jassbr.tech-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jassbr.tech)
+[![Portfolio](https://img.shields.io/badge/jassbr.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jassbr.me)
 [![LinkedIn](https://img.shields.io/badge/yassir--sabbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassir-sabbar)
 [![Email](https://img.shields.io/badge/contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassirsabbar1@gmail.com)
 
@@ -116,17 +116,11 @@ Gamified education with real-time progress tracking.
 
 ### `> git log --oneline --graph`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight-azure.vercel.app?user=JASSBR&theme=transparent&hide_border=true&ring=00f0ff&fire=39ff14&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight-azure.vercel.app?user=JASSBR&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats-eight-azure.vercel.app?user=JASSBR&theme=transparent&hide_border=true&ring=00f0ff&fire=39ff14&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=JASSBR&theme=dark&hide_border=true&ring=00f0ff&fire=39ff14&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&background=00000000" alt="streak" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JASSBR&show_icons=true&bg_color=00000000&hide_border=true&title_color=00f0ff&icon_color=39ff14&text_color=888888&rank_icon=percentile&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JASSBR&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JASSBR&show_icons=true&bg_color=00000000&hide_border=true&title_color=00f0ff&icon_color=39ff14&text_color=888888&rank_icon=percentile&include_all_commits=true" alt="stats" />
-</picture>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JASSBR&show_icons=true&bg_color=00000000&hide_border=true&title_color=00f0ff&icon_color=39ff14&text_color=888888&rank_icon=percentile&include_all_commits=true" alt="stats" />
 
 </div>
 
