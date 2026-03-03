@@ -1,19 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f0ff,100:39ff14&height=220&section=header&text=JASSBR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=fullstack%20engineer%20%C2%B7%20Lyon,%20FR&descSize=18&descAlignY=55&descColor=ffffffaa" />
+
 <div align="center">
 
-```
-                     ██╗ █████╗ ███████╗███████╗██████╗ ██████╗
-                     ██║██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗
-                     ██║███████║███████╗███████╗██████╔╝██████╔╝
-                ██   ██║██╔══██║╚════██║╚════██║██╔══██╗██╔══██╗
-                ╚█████╔╝██║  ██║███████║███████║██████╔╝██║  ██║
-                 ╚════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=I+don't+just+write+code+%E2%80%94+I+ship.;.NET+%7C+Next.js+%7C+React+%7C+Node.js+%7C+Go;building+products+from+zero+to+production" alt="Typing SVG" /></a>
 
-**`fullstack engineer`** · **`Lyon, FR`** · **`building things that matter`**
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/jassbr.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jassbr.me)
 [![LinkedIn](https://img.shields.io/badge/yassir--sabbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassir-sabbar)
 [![Email](https://img.shields.io/badge/contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassirsabbar1@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=JASSBR&style=for-the-badge&color=00f0ff&label=VISITORS)](https://github.com/JASSBR)
 
 </div>
 
@@ -25,47 +21,25 @@ I'm Yassir — I build fullstack products from zero to production.
 **.NET** when the backend needs to be bulletproof. **Next.js** when speed and DX matter.
 Currently going deep on **Go** because performance is a feature.
 
-I don't just write code — I ship.
-
 ---
 
 ### `> stack --current`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 **Daily drivers**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,dotnet,tailwind&theme=dark" alt="daily drivers" /></a>
 
 **Infrastructure & Data**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,prisma,git,linux&theme=dark" alt="infra" /></a>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+**Leveling up**
 
-**Leveling up** &nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="learning" /></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -116,16 +90,12 @@ Gamified education with real-time progress tracking.
 
 ### `> git log --oneline --graph`
 
-<img src="https://streak-stats.demolab.com?user=JASSBR&theme=dark&hide_border=true&ring=00f0ff&fire=39ff14&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&background=00000000" alt="streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=JASSBR&theme=dark&hide_border=true&ring=00f0ff&fire=39ff14&currStreakLabel=00f0ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&background=0a0e1a" alt="streak" />&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JASSBR&show_icons=true&bg_color=0a0e1a&hide_border=true&title_color=00f0ff&icon_color=39ff14&text_color=888888&rank_icon=percentile&include_all_commits=true" alt="stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JASSBR&show_icons=true&bg_color=00000000&hide_border=true&title_color=00f0ff&icon_color=39ff14&text_color=888888&rank_icon=percentile&include_all_commits=true" alt="stats" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=JASSBR&bg_color=0a0e1a&color=00f0ff&line=39ff14&point=ffffff&area=true&area_color=00f0ff&hide_border=true" alt="activity" />
 
 </div>
 
----
-
-<div align="center">
-<sub><code>// ship fast. learn faster. repeat.</code></sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f0ff,100:39ff14&height=100&section=footer" />
