@@ -18,7 +18,7 @@
 ### `> whoami`
 
 I'm Yassir — I build fullstack products from zero to production.
-**.NET** when the backend needs to be bulletproof. **Next.js** when speed and DX matter.
+**.NET + Angular** when the backend needs to be bulletproof. **Next.js** when speed and DX matter.
 Currently going deep on **Go** because performance is a feature.
 
 ---
@@ -29,11 +29,11 @@ Currently going deep on **Go** because performance is a feature.
 
 **Daily drivers**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,dotnet,tailwind&theme=dark" alt="daily drivers" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,react,nextjs&theme=dark" alt="daily drivers" /></a>
 
 **Infrastructure & Data**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,prisma,git,linux&theme=dark" alt="infra" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,rabbitmq,postgres,githubactions&theme=dark" alt="infra" /></a>
 
 **Leveling up**
 
@@ -49,40 +49,50 @@ Currently going deep on **Go** because performance is a feature.
 <tr>
 <td width="50%" valign="top">
 
-#### [MYTHOS](https://github.com/JASSBR/MYTHOS)
-AI-powered multiplayer narrative game engine.
-Procedural storytelling meets real-time collaboration.
-> `Next.js` · `AI` · `Multiplayer`
+#### [Ledgerline](https://github.com/JASSBR/ledgerline)
+A transfer bank as three .NET microservices — event sourcing, payments saga, fraud desk.
+Load-tested: 25 transfers/s on the same two accounts, never a cent lost or duplicated.
+> `.NET 10` · `Angular 22` · `RabbitMQ` · `Kubernetes` · `Azure`
+
+**[▶ Live demo](https://ledgerline.jassbr.me)**
 
 </td>
 <td width="50%" valign="top">
 
-#### [Ramadan Mode](https://github.com/JASSBR/ramadan-mode)
-Chrome extension — prayer times, Adhan, Quran, Hadiths & more.
-The most complete free Islamic extension.
-> `JavaScript` · `Chrome API` · `Open Source`
+#### [Comptoir](https://github.com/JASSBR/comptoir)
+A 2014 .NET Framework / AngularJS app migrated route by route to .NET 10 + Angular — no rewrite.
+YARP facade, shadow traffic, differential tests against the legacy stored procedures.
+> `.NET Framework 4.8 → .NET 10` · `AngularJS → Angular 22` · `YARP`
+
+**[▶ Live demo](https://comptoir.jassbr.me)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [Commerce](https://github.com/JASSBR/commerce)
-Fullstack e-commerce platform built from scratch.
-End-to-end: auth, cart, checkout, payments.
-> `TypeScript` · `Next.js` · `Stripe`
+#### [ClaimFlow](https://github.com/JASSBR/claimflow)
+Insurance claims handling with the safeguards of a regulated business.
+Delegated authority, four-eyes settlement, and an AI reviewer that cites the policy page.
+> `.NET 10` · `Angular 22` · `PostgreSQL` · `Claude`
+
+**[▶ Live demo](https://claimflow.jassbr.me)**
 
 </td>
 <td width="50%" valign="top">
 
-#### [ActivStudy](https://github.com/JASSBR/ActivStudy)
-Interactive learning platform for students.
-Gamified education with real-time progress tracking.
-> `JavaScript` · `React` · `EdTech`
+#### [DevLab](https://github.com/JASSBR/devlab-dotnet-angular)
+ASP.NET Core and Angular explained by the code that runs: each lesson is a live demo
+wired to the real API, next to the exact source files behind it.
+> `.NET 10` · `Angular 22` · `Interactive lab`
+
+**[▶ Live demo](https://devlab-dotnet-angular.vercel.app)**
 
 </td>
 </tr>
 </table>
+
+<sub>Also: [Ramadan Mode](https://github.com/JASSBR/ramadan-mode) (Chrome extension) · [BlazorGlow](https://github.com/JASSBR/blazorglow) (Blazor UI library) · [BuildFlow](https://github.com/JASSBR/buildflow-mvp) (CI/CD insights SaaS)</sub>
 
 ---
 
