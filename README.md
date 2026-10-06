@@ -92,7 +92,7 @@ wired to the real API, next to the exact source files behind it.
 </tr>
 </table>
 
-<sub>Also: [Ramadan Mode](https://github.com/JASSBR/ramadan-mode) (Chrome extension) · [BlazorGlow](https://github.com/JASSBR/blazorglow) (Blazor UI library) · [BuildFlow](https://github.com/JASSBR/buildflow-mvp) (CI/CD insights SaaS)</sub>
+<sub>Also: [BlazorGlow](https://github.com/JASSBR/blazorglow) (Blazor UI library) · [BuildFlow](https://github.com/JASSBR/buildflow-mvp) (CI/CD insights SaaS)</sub>
 
 ---
 
